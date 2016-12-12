@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Estaria Name Generator</string>
+    <string name="generate_name">Generate Name</string>
+</resources>
